@@ -9,3 +9,5 @@ print(type(v),chr(v))   #type check is string
 
 
 #ASCII: ASCII (American Standard Code for Information Interchange) is the most common character encoding format for text data in computers and on the internet.
+# *It is contain only one letter
+# total ascii word is total 128 ( starrt 0- end 127)
